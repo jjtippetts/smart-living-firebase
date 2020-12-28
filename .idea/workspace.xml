@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c77df541-ac12-4919-8047-4a6651f0f737" name="Default Changelist" comment="" />
+    <list default="true" id="c77df541-ac12-4919-8047-4a6651f0f737" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/js/Router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/components/DietBoard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/smart-living-firebase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smart-living-firebase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/App.Vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/public/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile-wide.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/tile-wide.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/tile.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +45,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue-firebase-web-template" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tippe\WebstormProjects\smart-living-firebase\doc\firestore" />
+      <recent name="C:\Users\tippe\WebstormProjects\smart-living-firebase\public" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="404.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/smart-living-firebase/404.html">
@@ -56,11 +87,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607989434204</updated>
-      <workItem from="1607989437402" duration="10286000" />
+      <workItem from="1607989437402" duration="11828000" />
+      <workItem from="1608140463696" duration="24528000" />
+      <workItem from="1608406497398" duration="603000" />
+      <workItem from="1608482338750" duration="6337000" />
     </task>
+    <task id="LOCAL-00001" summary="Added HTML5 boiler plate code">
+      <created>1608083274929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608083274929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added HTML5 boiler plate code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HTML5 boiler plate code" />
   </component>
 </project>
